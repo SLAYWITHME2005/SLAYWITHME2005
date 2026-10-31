@@ -8,9 +8,10 @@
 [![Email](https://img.shields.io/badge/Email-gayathriraju2005%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gayathriraju2005@gmail.com)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org)
+[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev)
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=650&lines=Building+Intelligent+Computer+Vision+Systems;Exploring+Self-Supervised+Learning+%26+RAG;Training+ML+Classifiers+%26+Deep+Neural+Nets;Turning+Data+into+Impactful+AI+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=650&lines=Building+Intelligent+Computer+Vision+Systems;Exploring+Self-Supervised+Learning+%26+RAG;Training+ML+Classifiers+%26+Deep+Neural+Nets;Crafting+Cross-Platform+Mobile+Apps;Turning+Data+into+Impactful+AI+Solutions" alt="Typing SVG" />
 </p>
 
 </div>
@@ -21,8 +22,9 @@
 
 - 🎓 **Background:** Computer Science & Engineering student specializing in **Artificial Intelligence & Machine Learning**.
 - 🧠 **Focus Areas:** Computer Vision (Face Detection, FER, Image Enhancement), Self-Supervised Learning (SSL), and RAG-driven generative applications.
+- 📱 **Mobile & Software:** Cross-platform mobile development with Flutter & Dart, full-stack backends with FastAPI and Flask.
 - 🔬 **Current Research:** Benchmarking SSL representations against supervised baselines in label-scarce time-series regimes.
-- ⚡ **Strengths:** End-to-end model training, feature engineering (PCA, HOG), performance benchmarking, clean architecture, and interactive web deployment.
+- ⚡ **Strengths:** End-to-end model training, feature engineering (PCA, HOG), performance benchmarking, clean architecture, and interactive web/mobile deployment.
 - 💬 **Ask me about:** Python, Scikit-learn, PyTorch, OpenCV, FastAPI, and building practical ML applications.
 
 ---
@@ -33,6 +35,7 @@
 
 ### **Languages**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -54,7 +57,8 @@
 ![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square)
 ![FAISS](https://img.shields.io/badge/FAISS-VectorStore-007ACC?style=flat-square)
 
-### **Frameworks & Developer Tools**
+### **Frameworks & Mobile Tools**
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![Gradio](https://img.shields.io/badge/Gradio-FF7C00?style=flat-square&logo=gradio&logoColor=white)
@@ -78,6 +82,7 @@
 | 📄 [**AI-Resume-Analyzer-ATS**](https://github.com/SLAYWITHME2005/AI-Resume-Analyzer-ATS) | Smart career assistant comparing candidate resumes against job descriptions with ATS score calculations, skill extraction, and contextual recommendations. | `Streamlit` `Python` `PyPDF2` `NLP` `TF-IDF` |
 | 🎓 [**Campus-RAG-FAQ-Assistant**](https://github.com/SLAYWITHME2005/Campus-RAG-FAQ-Assistant) | Retrieval-Augmented Generation (RAG) assistant for university queries powered by FastAPI, FAISS vector embeddings, Sentence-Transformers, and Groq LLM. | `FastAPI` `LangChain` `FAISS` `Sentence-Transformers` `Groq` |
 | 🎨 [**Computer-Vision-Image-Enhancement-Suite**](https://github.com/SLAYWITHME2005/Computer-Vision-Image-Enhancement-Suite) | Computer Vision pipeline implementing pro color grading, contrast stretching, shadow enhancement, and glare/reflection removal algorithms. | `OpenCV` `NumPy` `Image Processing` |
+| 📱 [**SubsEye**](https://github.com/SLAYWITHME2005/SubsEye) | Cross-platform Flutter mobile application to track recurring subscriptions, calculate upcoming renewal deadlines, and organize monthly expenses. | `Flutter` `Dart` `Mobile App` `Material UI` |
 | 📚 [**Machine-Learning-Assignments-and-Case-Studies**](https://github.com/SLAYWITHME2005/Machine-Learning-Assignments-and-Case-Studies) | Academic coursework and laboratory modules covering Regression analysis, Decision Trees, and the Face vs. Non-Face classification capstone. | `Scikit-Learn` `Jupyter` `Machine Learning` |
 | 🏫 [**Student-Management-Academic-Portal**](https://github.com/SLAYWITHME2005/Student-Management-Academic-Portal) | Full-stack academic portal with specialized dashboards for Administrators, Teachers, and Students built with Flask and SQLite. | `Flask` `SQLAlchemy` `SQLite` `HTML5/CSS3` |
 | 🤖 [**Groq-AI-Concept-Tutor**](https://github.com/SLAYWITHME2005/Groq-AI-Concept-Tutor) | Streaming conversational machine learning tutor with custom system prompting, multi-turn memory, and Gradio chat interface. | `Groq Cloud` `Gradio` `LLM` `Python` |
