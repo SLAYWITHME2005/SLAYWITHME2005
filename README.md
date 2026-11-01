@@ -6,26 +6,60 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-SLAYWITHME2005-181717?style=for-the-badge&logo=github)](https://github.com/SLAYWITHME2005)
 [![Email](https://img.shields.io/badge/Email-gayathriraju2005%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gayathriraju2005@gmail.com)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
-[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org)
-[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev)
+[![Profile Views](https://komarev.com/ghpvc/?username=SLAYWITHME2005&style=for-the-badge&color=blue)](https://github.com/SLAYWITHME2005)
+
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org)
+[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)](https://pytorch.org)
+[![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)](https://scikit-learn.org)
+[![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)](https://opencv.org)
+[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)](https://flutter.dev)
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=650&lines=Building+Intelligent+Computer+Vision+Systems;Exploring+Self-Supervised+Learning+%26+RAG;Training+ML+Classifiers+%26+Deep+Neural+Nets;Crafting+Cross-Platform+Mobile+Apps;Turning+Data+into+Impactful+AI+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=680&lines=Building+Intelligent+Computer+Vision+Systems;Exploring+Self-Supervised+Learning+%26+RAG;Training+ML+Classifiers+%26+Deep+Neural+Nets;Crafting+Cross-Platform+Mobile+Apps;Turning+Data+into+Impactful+AI+Solutions" alt="Typing SVG" />
 </p>
 
 </div>
 
 ---
 
+## 📌 Pinned Highlights
+
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🤖 <a href="https://github.com/SLAYWITHME2005/DOSTH-AI-Facial-Expression-Recognition">DOSTH-AI: Facial Expression Recognition</a></h3>
+      <p>Assistive Facial Expression Recognition (FER) system tailored for elderly care, featuring YuNet face detection, ONNX Runtime CPU inference, and an accessible interface.</p>
+      <p><b>Stack:</b> <code>Python</code> <code>OpenCV YuNet</code> <code>ONNX Runtime</code> <code>FastAPI</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📈 <a href="https://github.com/SLAYWITHME2005/Time-Series-Self-Supervised-Benchmark">Time-Series SSL Benchmark</a></h3>
+      <p>Modular PyTorch benchmarking framework evaluating Self-Supervised Learning (Contrastive & MAE) representations against supervised baselines in label-scarce regimes.</p>
+      <p><b>Stack:</b> <code>PyTorch</code> <code>Deep Learning</code> <code>Self-Supervised Learning</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>👤 <a href="https://github.com/SLAYWITHME2005/Face-vs-Non-Face-Classifier">Face vs. Non-Face ML Classifier</a></h3>
+      <p>End-to-end Machine Learning case study comparing Single Decision Tree vs. Random Forest Ensemble on PCA Eigenfaces, achieving <b>99.4% test accuracy</b> with a sliding-window detector.</p>
+      <p><b>Stack:</b> <code>Python</code> <code>Scikit-Learn</code> <code>PCA</code> <code>OpenCV</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎓 <a href="https://github.com/SLAYWITHME2005/Campus-RAG-FAQ-Assistant">Campus RAG FAQ Assistant</a></h3>
+      <p>Retrieval-Augmented Generation (RAG) knowledge engine for university queries powered by FastAPI, FAISS dense vector search, Sentence-Transformers, and Groq Cloud LLM.</p>
+      <p><b>Stack:</b> <code>FastAPI</code> <code>LangChain</code> <code>FAISS</code> <code>Groq LLM</code></p>
+    </td>
+  </tr>
+</table>
+
+---
+
 ## 🌟 About Me
 
-- 🎓 **Background:** Computer Science & Engineering student specializing in **Artificial Intelligence & Machine Learning**.
-- 🧠 **Focus Areas:** Computer Vision (Face Detection, FER, Image Enhancement), Self-Supervised Learning (SSL), and RAG-driven generative applications.
-- 📱 **Mobile & Software:** Cross-platform mobile development with Flutter & Dart, full-stack backends with FastAPI and Flask.
-- 🔬 **Current Research:** Benchmarking SSL representations against supervised baselines in label-scarce time-series regimes.
-- ⚡ **Strengths:** End-to-end model training, feature engineering (PCA, HOG), performance benchmarking, clean architecture, and interactive web/mobile deployment.
-- 💬 **Ask me about:** Python, Scikit-learn, PyTorch, OpenCV, FastAPI, and building practical ML applications.
+- 🎓 **Education:** B.Tech in **Computer Science & Engineering** (Focus in **AI & Machine Learning**).
+- 🧠 **Research & Core Focus:** Computer Vision (Facial Expression Recognition, Multi-Scale Detection), Self-Supervised Representation Learning, and RAG Architecture.
+- ⚡ **Engineering Strengths:** Low-latency CPU inference (ONNX Runtime), mathematical feature engineering (PCA, HOG, CLAHE), and clean full-stack deployment.
+- 📱 **Mobile & Web:** Cross-platform mobile development with Flutter & Dart; high-performance APIs with FastAPI and Flask.
+- 💬 **Ask me about:** Python, PyTorch, Scikit-learn, OpenCV, Vector Databases, and building practical ML pipelines.
 
 ---
 
@@ -57,7 +91,7 @@
 ![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square)
 ![FAISS](https://img.shields.io/badge/FAISS-VectorStore-007ACC?style=flat-square)
 
-### **Frameworks & Mobile Tools**
+### **Frameworks, Mobile & Developer Tools**
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
@@ -72,33 +106,28 @@
 
 ---
 
-## 📌 Featured Projects
+## 📂 All Projects Catalog
 
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| 👤 [**Face-vs-Non-Face-Classifier**](https://github.com/SLAYWITHME2005/Face-vs-Non-Face-Classifier) | Machine Learning case study comparing Single Decision Tree vs. Random Forest Ensemble on PCA Eigenfaces, achieving 99.4% test accuracy with real-time sliding window face detection. | `Python` `Scikit-Learn` `PCA` `OpenCV` `Random Forest` |
-| 🤖 [**DOSTH-AI-Facial-Expression-Recognition**](https://github.com/SLAYWITHME2005/DOSTH-AI-Facial-Expression-Recognition) | Assistive Facial Expression Recognition (FER) system tailored for elderly care, featuring YuNet face detection, ONNX Runtime CPU inference, and an accessible interface. | `Python` `OpenCV YuNet` `ONNX Runtime` `FastAPI` |
-| 📈 [**Time-Series-Self-Supervised-Benchmark**](https://github.com/SLAYWITHME2005/Time-Series-Self-Supervised-Benchmark) | Modular PyTorch benchmarking framework evaluating Self-Supervised Learning representations against supervised baselines in label-scarce classification regimes. | `PyTorch` `Deep Learning` `Self-Supervised Learning` |
-| 📄 [**AI-Resume-Analyzer-ATS**](https://github.com/SLAYWITHME2005/AI-Resume-Analyzer-ATS) | Smart career assistant comparing candidate resumes against job descriptions with ATS score calculations, skill extraction, and contextual recommendations. | `Streamlit` `Python` `PyPDF2` `NLP` `TF-IDF` |
-| 🎓 [**Campus-RAG-FAQ-Assistant**](https://github.com/SLAYWITHME2005/Campus-RAG-FAQ-Assistant) | Retrieval-Augmented Generation (RAG) assistant for university queries powered by FastAPI, FAISS vector embeddings, Sentence-Transformers, and Groq LLM. | `FastAPI` `LangChain` `FAISS` `Sentence-Transformers` `Groq` |
-| 🎨 [**Computer-Vision-Image-Enhancement-Suite**](https://github.com/SLAYWITHME2005/Computer-Vision-Image-Enhancement-Suite) | Computer Vision pipeline implementing pro color grading, contrast stretching, shadow enhancement, and glare/reflection removal algorithms. | `OpenCV` `NumPy` `Image Processing` |
-| 📱 [**SubsEye**](https://github.com/SLAYWITHME2005/SubsEye) | Cross-platform Flutter mobile application to track recurring subscriptions, calculate upcoming renewal deadlines, and organize monthly expenses. | `Flutter` `Dart` `Mobile App` `Material UI` |
-| 📚 [**Machine-Learning-Assignments-and-Case-Studies**](https://github.com/SLAYWITHME2005/Machine-Learning-Assignments-and-Case-Studies) | Academic coursework and laboratory modules covering Regression analysis, Decision Trees, and the Face vs. Non-Face classification capstone. | `Scikit-Learn` `Jupyter` `Machine Learning` |
-| 🏫 [**Student-Management-Academic-Portal**](https://github.com/SLAYWITHME2005/Student-Management-Academic-Portal) | Full-stack academic portal with specialized dashboards for Administrators, Teachers, and Students built with Flask and SQLite. | `Flask` `SQLAlchemy` `SQLite` `HTML5/CSS3` |
-| 🤖 [**Groq-AI-Concept-Tutor**](https://github.com/SLAYWITHME2005/Groq-AI-Concept-Tutor) | Streaming conversational machine learning tutor with custom system prompting, multi-turn memory, and Gradio chat interface. | `Groq Cloud` `Gradio` `LLM` `Python` |
-| 🌐 [**Web-RAG-Knowledge-Assistant**](https://github.com/SLAYWITHME2005/Web-RAG-Knowledge-Assistant) | Real-time web scraper and question-answering system using LangChain, Hugging Face embeddings, FAISS, and Groq LLM. | `LangChain` `FAISS` `HuggingFace` `Groq` |
+| Project | Description | Tech Stack | License |
+| :--- | :--- | :--- | :---: |
+| 🤖 [**DOSTH-AI-Facial-Expression-Recognition**](https://github.com/SLAYWITHME2005/DOSTH-AI-Facial-Expression-Recognition) | Assistive Facial Expression Recognition (FER) system tailored for elderly care with YuNet face detection & ONNX Runtime. | `Python` `OpenCV YuNet` `ONNX` `FastAPI` | `MIT` |
+| 📈 [**Time-Series-Self-Supervised-Benchmark**](https://github.com/SLAYWITHME2005/Time-Series-Self-Supervised-Benchmark) | PyTorch benchmarking framework evaluating Self-Supervised Learning representations against supervised baselines in label-scarce regimes. | `PyTorch` `Deep Learning` `SSL` | `MIT` |
+| 👤 [**Face-vs-Non-Face-Classifier**](https://github.com/SLAYWITHME2005/Face-vs-Non-Face-Classifier) | Machine Learning case study comparing Single Decision Tree vs. Random Forest Ensemble on PCA Eigenfaces (99.4% test accuracy). | `Python` `Scikit-Learn` `PCA` `OpenCV` | `MIT` |
+| 📄 [**AI-Resume-Analyzer-ATS**](https://github.com/SLAYWITHME2005/AI-Resume-Analyzer-ATS) | Smart career assistant comparing candidate resumes against job descriptions with ATS score calculations and TF-IDF matching. | `Streamlit` `Python` `PyPDF2` `NLP` `TF-IDF` | `MIT` |
+| 🎓 [**Campus-RAG-FAQ-Assistant**](https://github.com/SLAYWITHME2005/Campus-RAG-FAQ-Assistant) | Retrieval-Augmented Generation (RAG) assistant for university queries powered by FastAPI, FAISS, Sentence-Transformers, and Groq LLM. | `FastAPI` `LangChain` `FAISS` `Groq` | `MIT` |
+| 🎨 [**Computer-Vision-Image-Enhancement-Suite**](https://github.com/SLAYWITHME2005/Computer-Vision-Image-Enhancement-Suite) | Image Processing pipeline implementing pro color grading, contrast stretching, shadow enhancement, and glare/reflection removal. | `OpenCV` `NumPy` `Image Processing` | `MIT` |
+| 📱 [**SubsEye**](https://github.com/SLAYWITHME2005/SubsEye) | Cross-platform Flutter mobile application to track recurring subscriptions, calculate upcoming renewal deadlines, and organize expenses. | `Flutter` `Dart` `Android/iOS` `Material UI` | `MIT` |
+| 📚 [**Machine-Learning-Assignments-and-Case-Studies**](https://github.com/SLAYWITHME2005/Machine-Learning-Assignments-and-Case-Studies) | Academic coursework and laboratory modules covering Regression analysis, Decision Trees, and the Face vs. Non-Face classification capstone. | `Scikit-Learn` `Jupyter` `Machine Learning` | `MIT` |
+| 🏫 [**Student-Management-Academic-Portal**](https://github.com/SLAYWITHME2005/Student-Management-Academic-Portal) | Full-stack academic portal with specialized dashboards for Administrators, Teachers, and Students built with Flask and SQLite. | `Flask` `SQLAlchemy` `SQLite` `HTML5/CSS3` | `MIT` |
+| 🤖 [**Groq-AI-Concept-Tutor**](https://github.com/SLAYWITHME2005/Groq-AI-Concept-Tutor) | Streaming conversational machine learning tutor with custom system prompting, multi-turn memory, and Gradio chat interface. | `Groq Cloud` `Gradio` `LLM` `Python` | `MIT` |
+| 🌐 [**Web-RAG-Knowledge-Assistant**](https://github.com/SLAYWITHME2005/Web-RAG-Knowledge-Assistant) | Real-time web scraper and question-answering system using LangChain, Hugging Face embeddings, FAISS, and Groq LLM. | `LangChain` `FAISS` `HuggingFace` `Groq` | `MIT` |
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Streak & Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SLAYWITHME2005&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="Gayathri's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SLAYWITHME2005&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SLAYWITHME2005&theme=tokyonight&hide_border=true" width="97%" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SLAYWITHME2005&theme=tokyonight&hide_border=true" width="95%" alt="GitHub Streak" />
 </div>
 
 ---
